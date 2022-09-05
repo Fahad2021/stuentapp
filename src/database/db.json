@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Fahad",
+      "username": "fad",
+      "phone": "012828282",
+      "email": "fahahd@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Abu Saleh Md.Fahad",
+      "username": "nileshvai",
+      "email": "1846CSE00678@manarat.ac.bd",
+      "phone": "+8801568260009",
+      "id": 3
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "1846CSE00678@manarat.ac.bd",
+      "phone": "+8801568260009",
+      "id": 4
+    }
+  ]
+}
